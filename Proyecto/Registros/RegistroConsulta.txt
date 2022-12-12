@@ -1,0 +1,32 @@
+Fecha de la cita: 01/06/2021
+Hora de la cita: 8:00
+Mecanico: Juan Carlos Martines Morales	Servicio: Cambio de aceite
+Cliente: Vanessa Puente Garcia
+Telefono: 8185555561
+Estado: Activa
+Motivo: Sin Motivo
+====================================================================================================================================
+Fecha de la cita: 02/06/2021
+Hora de la cita: 8:00
+Mecanico: Francisco Martinez Gonzalez	Servicio: Cambio de neumaticos
+Cliente: Brenda Hernandez Garcia
+Telefono: 8181615151
+Estado: Activa
+Motivo: Sin Motivo
+====================================================================================================================================
+Fecha de la cita: 03/06/2021
+Hora de la cita: 12:00
+Mecanico: Pedro Alexander Salinas Esquivel	Servicio: Revision de motor
+Cliente: Irving Daniel Hernandez Castillo
+Telefono: 8181956165
+Estado: Activa
+Motivo: Sin Motivo
+====================================================================================================================================
+Fecha de la cita: 04/06/2021
+Hora de la cita: 4:00
+Mecanico: Raul Sanchez Perez	Servicio: Limpieza interior
+Cliente: Fatima Galvan Lomas
+Telefono: 8136452955
+Estado: Activa
+Motivo: Sin Motivo
+====================================================================================================================================

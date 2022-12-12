@@ -1,0 +1,25 @@
+Nombre: Abigail Carillo Saldaña
+Marca: Ford	Modelo: FDR 952	Placas: MTY 964
+Kilometraje: 1000	Telefono: 8156565615
+Direccion: Escobedo, Calle codornis 165
+==================================================================================================================
+Nombre: Brenda Hernandez Garcia
+Marca: Ford	Modelo: FDR 675	Placas: MTY 964
+Kilometraje: 2500	Telefono: 8181615151
+Direccion: Apodaca, Calle pato 162
+==================================================================================================================
+Nombre: Fatima Galvan Lomas
+Marca: Chevrolet	Modelo:  CVT 685	Placas: MTY 946
+Kilometraje: 1000	Telefono: 8136452955
+Direccion: Salinas Victoria, Calle Emiliano Zapata 368
+==================================================================================================================
+Nombre: Irving Daniel Hernandez Castillo
+Marca: Nissan	Modelo: NSN 951	Placas: MTY 972
+Kilometraje: 3000	Telefono: 8181956165
+Direccion: Salinas Victoria, Calle Iguana 184
+==================================================================================================================
+Nombre: Vanessa Puente Garcia
+Marca: Volkswagen	Modelo: VKG 586	Placas: MTY 963
+Kilometraje: 5000	Telefono: 8185555561
+Direccion: San Nicolas De Los Garza, Calle kiwi 130
+==================================================================================================================
